@@ -1,27 +1,12 @@
-# Vue Crash Course (Task Tracker)
+# Vue Crash Course
 
-> This is the project from the YouTube crash course
+> Projects from the YouTube crash course
 
-## Project setup
-
+## Task Tracker setup
 ```
-npm install
-```
+npm i
 
-## Run the JSON-Server backend (http://localhost:5000)
-
-```
 npm run backend
-```
 
-## Run the Vue dev server (http://localhost:8080)
-
-```
-npm run serve
-```
-
-## Compiles and minifies for production
-
-```
-npm run build
+npm run dev
 ```
